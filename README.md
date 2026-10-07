@@ -2,6 +2,9 @@
 É um modulo Magisk voltado para Celulares Samsung com OneUI 7 Com o Objetivo de Aprimorar o Desempenho do Celular, Compatibilidade com Celulares Samsung com OneUI7
 
 
+A opção 2 que é apenas pro Galaxy A05 ela adiciona uma nova opção no modulo que digitando su no termux e depois rela, vai abrir um menu pra otimizar a GPU do Galaxy A05
+
+
 
 
 Requisitos
